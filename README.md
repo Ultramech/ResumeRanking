@@ -17,18 +17,11 @@ Resume Ranking AI is a Django-based web application that uses **Natural Language
 ✅ **Admin Dashboard** – Manage resumes, job descriptions, and ranking criteria.  
 ✅ **REST API Support** – Integrate with external HR systems.  
 
-## **🛠️ Tech Stack**  
-- **Backend:** Django, Django REST Framework  
-- **Frontend:** HTML, CSS, JavaScript, HTMX, TailwindCSS  
-- **AI/NLP:** SpaCy, Groq AI (LLaMA 3.3)  
-- **Database:** SQLite (default)  
-- **File Handling:** pdfplumber  
-
 ## **🔧 Installation & Setup**  
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/AbrarZaved/Resume_Ranking_AI_by_Django.git
-cd Resume_Ranking_AI_by_Django
+git clone https://github.com/Ultramech/ResumeRanking.git
+cd ResumeRanking
 ```
 ### **2️⃣ Create & Activate Virtual Environment**  
 ```powershell
@@ -135,10 +128,3 @@ Resume_Ranking_AI/
 ✅ AI-based **Resume Summarization**  
 ✅ **Job Matching Recommendations**  
 ✅ **Dashboard with Data Analytics**  
-
-## **🤝 Contributing**  
-Pull requests are welcome! Follow the standard **Git flow** and create a feature branch before submitting PRs.  
-
-## **📜 License**  
-This project is open-source under the **MIT License**.  
-
